@@ -23,7 +23,8 @@ This Python application provides a graphical user interface (GUI) for calculatin
     python hashCalGui.py
     ```
 ##Example
-###Browse for a file.
-###Check the "Save to File" checkbox to save the hash.
-###Check the "Compare Hash" checkbox to compare it with previously stored hashes.
-###Click "Execute."
+
+- Browse for a file.
+- Check the "Save to File" checkbox to save the hash.
+- Check the "Compare Hash" checkbox to compare it with previously stored hashes.
+- Click "Execute."
