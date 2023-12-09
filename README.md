@@ -22,7 +22,7 @@ This Python application provides a graphical user interface (GUI) for calculatin
    ```bash
     python hashCalGui.py
     ```
-##Example
+### Example
 
 - Browse for a file.
 - Check the "Save to File" checkbox to save the hash.
